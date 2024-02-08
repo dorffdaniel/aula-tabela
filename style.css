@@ -1,0 +1,22 @@
+table, th, td{
+    border: solid 2px rgb(0, 0, 0);
+    margin: 3px;
+}
+
+.negativa{
+    color: orange;
+}
+
+.cabecalho-moda{
+    background-color: #bb86fc;
+}
+
+.tabela {
+    background-color: #424250;
+
+}
+
+.cabecalho-casa{
+    background-color: #00c4b4;
+}
+
